@@ -297,7 +297,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], draggable: false, height: 0.03,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('black'),  opacity: undefined,
+    color: new util.Color('white'),  opacity: undefined,
     depth: 0.0 
   });
   
